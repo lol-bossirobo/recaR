@@ -1,2 +1,2 @@
-# recaR
-A random description
+# synchronousBallMovement
+Ball moving synchronously
